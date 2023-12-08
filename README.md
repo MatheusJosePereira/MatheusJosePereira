@@ -2,18 +2,18 @@
 
 <p align="left"> 
   Olá me chamo Matheus tenho 19 anos e sou <strong>Desenvolvedor FullStack</strong>.<br>
-  No momento sou estudante do Instituto Proa onde estou aprendendo novas tecnologias e crescendo na minha carreira.
+  No momento sou estudante do Instituto Proa onde estou aprendendo novas tecnologias e criando projetos, atualmente participo de uma startup chamada Bellifica onde sou Scrum Master de uma equipe de desenvolvedores que tem como solução trazer facilidade no Gerenciamento e educação para empreendedores na área da beleza o projeto será apresentado dia 19 de dezembro na FAAP.
 </p>
 
 <p align="left">
-  🦄 Linguagens: React, Java, HTML5, CSS3, Python, JavaScript e MySQL
+  🚀 Linguagens: React, Java, HTML5, CSS3, Python, JavaScript e MySQL
 </p>
 <p align="left">
   💼 Ferramentas: Figma, Trello, GitHub, e Metodologia Scrum
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  🖊️ Meus Contatos: ⤵️
 </p>
 
 <p align="left">
