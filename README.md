@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá me chamo Matheus tenho 19 anos e sou <strong>Desenvolvedor FullStack</strong>.<br>
+  No momento sou estudante do Instituto Proa onde estou aprendendo novas tecnologias e crescendo na minha carreira.
 </p>
 
 <p align="left">
