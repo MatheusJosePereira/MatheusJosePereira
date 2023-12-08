@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: React, Java, HTML5, CSS3, Python, JavaScript e MySQL
+  🚀 Skills: React, Java, HTML5, CSS3, Python, JavaScript e MySQL
 </p>
 <p align="left">
   💼 Ferramentas: Figma, Trello, GitHub, e Metodologia Scrum
