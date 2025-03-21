@@ -1,15 +1,18 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá me chamo Matheus tenho 19 anos e sou <strong>Desenvolvedor FullStack</strong>.<br>
-  No momento sou estudante do Instituto Proa onde estou aprendendo novas tecnologias e criando projetos, atualmente participo de uma startup chamada Bellifica onde sou Scrum Master de uma equipe de desenvolvedores que tem como solução trazer facilidade no Gerenciamento e educação para empreendedores na área da beleza o projeto será apresentado dia 19 de dezembro na FAAP.
+  Olá, me chamo Matheus, tenho 21 anos e sou Desenvolvedor Web com experiência em Front-end e Back-end. Atualmente, trabalho como Jovem Aprendiz na área de Dados, onde venho expandindo meus conhecimentos em análise e manipulação de dados.
+
+Estou em busca de um estágio na área de Ciência de Dados, unindo minha experiência em desenvolvimento com habilidades em machine learning e análise de dados. Meu objetivo é evoluir como Cientista de Dados, aplicando estatística, programação e inteligência artificial para resolver problemas do mundo real.
+
+Atualmente estou fazendo meu 1 semestre em Ciências da Computação no Centro Universitário Senac - Santo Amaro, e fazendo cursos sobre os Fundamentos da Linguagem Python para Análise de Dados e Data Science me aprofundando em bibliotecas python como: Pandas, NumPy, Matplotlib, Scikit-Learn.
 </p>
 
 <p align="left">
-  🚀 Skills: React, Java, HTML5, CSS3, Boostrap, Python, JavaScript e MySQL
+  🚀 Skills: **React, Java, HTML5, CSS3, Boostrap5, Python, JavaScript e MySQL
 </p>
 <p align="left">
-  💼 Ferramentas: Figma, Trello, GitHub, e Metodologia Scrum
+  💼 Ferramentas: **Figma, Trello, GitHub, e Metodologia Scrum
 </p>
 
 <p align="left">
