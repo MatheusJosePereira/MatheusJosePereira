@@ -9,10 +9,12 @@ Atualmente estou fazendo meu 1 semestre em Ciências da Computação no Centro U
 </p>
 
 <p align="left">
-  🚀 * Skills: React, JavaScript, Python, HTML5, CSS3, Bootstrap5.
 </p>
 <p align="left">
-  💼 Ferramentas: GitHub, Figma, Trello, Scrum, SQL, Power BI
+  🚀Skills: React | JavaScript | Python | HTML5 | CSS3 | Bootstrap5 <br>
+  📉Data Science: Pandas | NumPy
+  💾Cloud & Big data: AWS (S3, CloudFront) | Databricks
+  💼Ferramentas: GitHub |  Figma | Trello | Scrum | SQL
 </p>
 
 <p align="left">
