@@ -1,20 +1,20 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Matheus, tenho 21 anos e sou Desenvolvedor Web com experiência em Front-end e Back-end. Atualmente, trabalho como Jovem Aprendiz na área de Dados, onde venho expandindo meus conhecimentos em análise e manipulação de dados.
+Olá! Sou Matheus José, desenvolvedor web com experiência em Front-end e Back-end. Atualmente, trabalho como Jovem Aprendiz em Governança de Dados na empresa Compra Agora, onde estou ampliando minhas habilidades em análise, integridade e qualidade dos dados.
 
-Estou em busca de um estágio na área de Ciência de Dados, unindo minha experiência em desenvolvimento com habilidades em machine learning e análise de dados. Meu objetivo é evoluir como Cientista de Dados, aplicando estatística, programação e inteligência artificial para resolver problemas do mundo real.
+Busco um estágio na área de <strong>Ciência de Dados</strong> para unir minha experiência em desenvolvimento com conhecimentos em Machine Learning e Análise de Dados. Meu objetivo é evoluir como Cientista de Dados, aplicando estatística, programação e inteligência artificial para resolver problemas do mundo real.
 
-Atualmente estou fazendo meu 1 semestre em Ciências da Computação no Centro Universitário Senac - Santo Amaro, e fazendo cursos sobre os Fundamentos da Linguagem Python para Análise de Dados e Data Science me aprofundando em bibliotecas python como: Pandas, NumPy, Matplotlib, Scikit-Learn.
+Atualmente cursando o <strong>1º semestre em Ciência da Computação no Centro Universitário Senac - Santo Amaro</strong>. Também estou aprofundando meus conhecimentos com cursos de Fundamentos da Linguagem Python para Análise de Dados e bibliotecas como:
 </p>
 
 <p align="left">
 </p>
 <p align="left">
-  🚀Skills: React | JavaScript | Python | HTML5 | CSS3 | Bootstrap5 <br>
-  💾Cloud & Big data: AWS (S3, CloudFront) | Databricks  <br>
-  📉Data Science: Pandas | NumPy | Matplotlib | Scikit-Learn | Statsmodels   <br>
-  💼Ferramentas: GitHub |  Figma | Trello | Scrum | SQL  <br>
+  <strong>🚀Skills</strong>: React | JavaScript | Python | HTML5 | CSS3 | Bootstrap5 <br>
+  <strong>💾Cloud & Big data</strong>: AWS (S3, CloudFront) | Databricks  <br>
+  📉<strong>Data Science</strong>: Pandas | NumPy | Matplotlib | Scikit-Learn | Statsmodels   <br>
+  💼<strong>Ferramentas</strong>: GitHub |  Figma | Trello | Scrum | SQL  <br>
 </p>
 
 <p align="left">
