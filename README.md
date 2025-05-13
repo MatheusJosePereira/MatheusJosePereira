@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Olá! Sou Matheus José, desenvolvedor web com experiência em Front-end e Back-end. Atualmente, trabalho como Jovem Aprendiz em Governança de Dados na empresa Compra Agora, onde estou ampliando minhas habilidades em análise, integridade e qualidade dos dados.
+Olá! Sou Matheus José, desenvolvedor web com experiência em Front-end e Back-end. Atualmente, trabalho como <strong>Jovem Aprendiz em Governança de Dados na empresa Compra Agora</strong>, onde estou ampliando minhas habilidades em análise, integridade e qualidade dos dados.
 
 Busco um estágio na área de <strong>Ciência de Dados</strong> para unir minha experiência em desenvolvimento com conhecimentos em Machine Learning e Análise de Dados. Meu objetivo é evoluir como Cientista de Dados, aplicando estatística, programação e inteligência artificial para resolver problemas do mundo real.
 
